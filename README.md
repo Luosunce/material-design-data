@@ -45,7 +45,7 @@ Material Design 是以后 Android 的主流设计风格，现在已经越来越�
 - [SeeWeather](https://github.com/xcc3641/)
 - [MD-BiliBili](https://github.com/Qixingchen/MD-BiliBili) 基于 Material Design 的 BiliBili 第三方 Android 客户端
 - [meizhi](https://github.com/drakeet/meizhi) 妹纸，满满的福利
-- [Elephant](https://github.com/Freelander/Elephant) 朋友的项目，PHPHub第三方客户端
+- [Elephant](https://github.com/Freelander/Elephant) PHPHub第三方客户端
 - [MaterialDesignExample](https://github.com/chenyangcun/MaterialDesignExample) 最早出现的 Material Design 风格的app之一，用来演示Material Design控件的使用
 - [MaterialHome](https://github.com/hymanme/MaterialHome) 一款图书展示类 app
 
@@ -67,4 +67,3 @@ Material Design 是以后 Android 的主流设计风格，现在已经越来越�
 
 ##结尾
 最后，感谢上面分享资料的各位大神们！
->>>>>>> 4034682c6a10b87ddd6fbd79a939c89deb1b0b31
