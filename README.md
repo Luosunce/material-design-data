@@ -1,9 +1,8 @@
-#最全面的 Material Design 学习资料汇总
+#最全面的 Material Design 学习资料
 
 
-关于 Material Design 在这里我就不在多做介绍了，想必做Android开发的 都听过它的大名 ，甚至用过无数次了。Material Design 是以后 Android 的主流设计风格，现在已经越来越多的APP遵循 Material Design 的设计规范来进
-行开发，是每个 Android 开发者必学的基础技术。在此我收集了一份关于 Material Design 的学习资料以便大家学习，希望对你们有所帮助！
-这个项目我会在 **Github** 上不定期更新，欢迎star、follow.
+关于 Material Design 在这里我就不在多做介绍了，想必做 Android 开发的 都听过它的大名 ，甚至用过无数次了。Material Design 是以后 Android 的主流设计风格，现在已经越来越多的 APP 遵循 Material Design 的设计规范来进行开发，是每个 Android 开发者必学的基础技术。在此我收集了一份关于 Material Design 的学习资料以便大家学习，希望对你们有所帮助！
+这个项目我会在 **Github** 上不定期更新，欢迎 star、follow.
 
 
 ##Material Design 使用教程
@@ -14,7 +13,7 @@
 - [Android Design Support Library概览](http://blog.csdn.net/growth58/article/details/47972467) 一系列教程对 Material Design 的常用控件都做了很详细的讲解
 - [Android Material Design简单使用](http://www.jianshu.com/p/107a2529a56f)
 - [Material Design Library 使用汇总](http://www.jianshu.com/p/40efd44802ef)
-- [Android Design Support Library的 代码实验] (http://www.jianshu.com/p/1078568e859f)
+- [Android Design Support Library的 代码实验](http://www.jianshu.com/p/1078568e859f)
 - [Material Design 资料收集](http://www.jianshu.com/p/378ea4ee5a54) 这个不得不推荐，向前辈致敬
 - [Android Material Design 动画](http://blog.csdn.net/qibin0506/article/details/49069089)
 - [Material Design详解（动画篇)](http://blog.csdn.net/a396901990/article/details/40187203)
@@ -36,7 +35,7 @@
 
 ##开源项目
 - [十款 Material Design 风格的 Android 开源项目](http://weibo.com/ttarticle/p/show?id=2309404021772117763644)
-- [Universal Android Music Player](https://github.com/googlesamples/android-UniversalMusicPlayer#universal-android-music-player-sample) 谷歌的一款Material Design 风格的音乐播放器播放器，非常的漂亮
+- [Universal Android Music Player](https://github.com/googlesamples/android-UniversalMusicPlayer#universal-android-music-player-sample) 谷歌的一款 Material Design 风格的音乐播放器播放器，非常的漂亮
 - [plaid](https://github.com/nickbutcher/plaid) 非常给力的一个项目，有着很酷炫的动画效果
 - [Material-Movies](https://github.com/saulmm/Material-Movies) Material Design 风格的视频播放器
 - [Simplifyreader](https://github.com/chentao0707/SimplifyReader)
@@ -44,7 +43,7 @@
 - [MD-BiliBili](https://github.com/Qixingchen/MD-BiliBili) 基于 Material Design 的 BiliBili 第三方 Android 客户端
 - [meizhi](https://github.com/drakeet/meizhi) 妹纸，满满的福利
 - [Elephant](https://github.com/Freelander/Elephant) PHPHub第三方客户端
-- [MaterialDesignExample](https://github.com/chenyangcun/MaterialDesignExample) 最早出现的 Material Design 风格的app之一，用来演示Material Design控件的使用
+- [MaterialDesignExample](https://github.com/chenyangcun/MaterialDesignExample) 最早出现的 Material Design 风格的 app 之一，用来演示  Material Design 控件的使用
 - [MaterialHome](https://github.com/hymanme/MaterialHome) 一款图书展示类 app
 
 ##视频
@@ -64,4 +63,4 @@
 
 
 ##结尾
-感谢上面分享资料的各位大神！最后，如果你们觉得这份资料对你们能起到一点帮助，请给个 star,谢谢！
+感谢上面分享资料的各位大神！最后，如果你们觉得这份资料对你们能起到一点帮助，请给个 star ,谢谢！
