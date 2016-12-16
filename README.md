@@ -3,7 +3,7 @@
 
 关于 Material Design 在这里我就不在多做介绍了，想必做Android开发的 都听过它的大名 ，甚至用过无数次了。Material Design 是以后 Android 的主流设计风格，现在已经越来越多的APP遵循 Material Design 的设计规范来进
 行开发，是每个 Android 开发者必学的基础技术。在此我收集了一份关于 Material Design 的学习资料以便大家学习，希望对你们有所帮助！
-这个项目我会在 [Github](https://github.com/Luosunce/material-design-data) 上不定期更新，欢迎star、folow.
+这个项目我会在 **Github** 上不定期更新，欢迎star、folow.
 
 
 ##Material Design 使用教程
@@ -64,4 +64,4 @@
 
 
 ##结尾
-感谢上面分享资料的各位大神们！最后，如果你们觉得这份资料对你们能起到一点帮助，请给个赞或者在 [Github](https://github.com/Luosunce/material-design-data) 上给个 star,谢谢！
+感谢上面分享资料的各位大神！最后，如果你们觉得这份资料对你们能起到一点帮助，请给个 star,谢谢！
