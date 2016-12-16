@@ -10,13 +10,13 @@
 - [Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
 - [Android 5.0 文档](https://developer.android.com/training/material/index.html)
 - [开始学习 Materila Design](https://bboyfeiyu.gitbooks.io/android-tech-frontier/content/issue-8/%E5%BC%80%E5%A7%8B%E5%AD%A6%E4%B9%A0Material%20Design.html)
-- [Android Design Support Library概览](http://blog.csdn.net/growth58/article/details/47972467) 一系列教程对 Material Design 的常用控件都做了很详细的讲解
-- [Android Material Design简单使用](http://www.jianshu.com/p/107a2529a56f)
+- [Android Design Support Library 概览](http://blog.csdn.net/growth58/article/details/47972467) 一系列教程对 Material Design 的常用控件都做了很详细的讲解
+- [Android Material Design 简单使用](http://www.jianshu.com/p/107a2529a56f)
 - [Material Design Library 使用汇总](http://www.jianshu.com/p/40efd44802ef)
-- [Android Design Support Library的 代码实验](http://www.jianshu.com/p/1078568e859f)
+- [Android Design Support Library 的代码实验](http://www.jianshu.com/p/1078568e859f)
 - [Material Design 资料收集](http://www.jianshu.com/p/378ea4ee5a54) 这个不得不推荐，向前辈致敬
 - [Android Material Design 动画](http://blog.csdn.net/qibin0506/article/details/49069089)
-- [Material Design详解（动画篇)](http://blog.csdn.net/a396901990/article/details/40187203)
+- [Material Design 详解（动画篇)](http://blog.csdn.net/a396901990/article/details/40187203)
 
 ##开源库
 - [android-material-design-Open-source-projects](https://github.com/soyoungboy/android-material-design-Open-source-projects) Material Design 开源库集合
