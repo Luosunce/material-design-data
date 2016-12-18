@@ -68,6 +68,11 @@
 - [material palette](https://www.materialpalette.com/) Material Design 调色板
 - [MaterialUp](https://material.uplabs.com/) 如果你不知道怎样设计一款漂亮的 Material Design 风格的 APP，那你可以参考它，上面有很多漂亮的模板 
 
+## 知乎讨论
+
+- [如何理解 Google 的 Material Design 设计语言?](https://www.zhihu.com/question/24276657)
+- [哪些因素阻碍国内 BAT 的移动应用采用 Material Design?](https://www.zhihu.com/question/37376355)
+- [Material Design 设计规范是否不太适合像淘宝这样大而全的厚重的应用程序？](https://www.zhihu.com/question/36992060)
 
 ##结尾
 感谢上面分享资料的各位大神！最后，如果你们觉得这份资料对你们能起到一点帮助，请给个 star ,谢谢！
