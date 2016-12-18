@@ -4,6 +4,7 @@
 关于 Material Design 在这里我就不在多做介绍了，想必做 Android 开发的 都听过它的大名 ，甚至用过无数次了。Material Design 是以后 Android 的主流设计风格，现在已经越来越多的 APP 遵循 Material Design 的设计规范来进行开发，是每个 Android 开发者必学的基础技术。在此我收集了一份关于 Material Design 的学习资料以便大家学习，希望对你们有所帮助！
 这个项目我会在 **Github** 上不定期更新，欢迎 star、follow.
 
+>感谢 [@Android 开发日常](http://www.weibo.com/AndroidDevDaily) 大力支持以及 [@G军仔](https://github.com/Freelander) 指点
 
 ##Material Design 使用教程
 - [Material Design 官网](https://material.google.com/)
@@ -17,6 +18,12 @@
 - [Material Design 资料收集](http://www.jianshu.com/p/378ea4ee5a54) 这个不得不推荐，向前辈致敬
 - [Android Material Design 动画](http://blog.csdn.net/qibin0506/article/details/49069089)
 - [Material Design 详解（动画篇)](http://blog.csdn.net/a396901990/article/details/40187203)
+
+## Awesome 系列
+
+- [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign)
+- [awesome-material](https://github.com/sachin1092/awesome-material)
+- [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
 
 ##开源库
 - [android-material-design-Open-source-projects](https://github.com/soyoungboy/android-material-design-Open-source-projects) Material Design 开源库集合
