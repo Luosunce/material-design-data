@@ -39,6 +39,10 @@
 - [material-range-bar](https://github.com/oli107/material-range-bar) Material Design 风格的 RangeBar
 - [material-camera](https://github.com/afollestad/material-camera) Material Design 风格的 Camera
 - [Material-Animations](https://github.com/lgvalle/Material-Animations) Material Design 动画效果
+- [material-dialogs](https://github.com/afollestad/material-dialogs) MD 风格的弹框
+- [material-ripple](https://github.com/balysv/material-ripple) 支持 api 14 以上的水波纹效果
+- [MaterialShowcaseView](https://github.com/deano2390/MaterialShowcaseView) MD 风格的透明指示层
+- [MaterialIntroView](https://github.com/iammert/MaterialIntroView) 类似 [Fabulous App](http://www.thefabulous.co/) MD 风格的功能引导库
 
 ##开源项目
 - [十款 Material Design 风格的 Android 开源项目](http://weibo.com/ttarticle/p/show?id=2309404021772117763644)
