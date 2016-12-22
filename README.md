@@ -43,6 +43,7 @@
 - [material-ripple](https://github.com/balysv/material-ripple) 支持 api 14 以上的水波纹效果
 - [MaterialShowcaseView](https://github.com/deano2390/MaterialShowcaseView) MD 风格的透明指示层
 - [MaterialIntroView](https://github.com/iammert/MaterialIntroView) 类似 [Fabulous App](http://www.thefabulous.co/) MD 风格的功能引导库
+- [material-components-android](https://github.com/material-components/material-components-android) MD 风格的组件集合
 
 ##开源项目
 - [十款 Material Design 风格的 Android 开源项目](http://weibo.com/ttarticle/p/show?id=2309404021772117763644)
