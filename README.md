@@ -81,3 +81,7 @@
 
 ##结尾
 感谢上面分享资料的各位大神！最后，如果你们觉得这份资料对你们能起到一点帮助，请给个 star ,谢谢！
+
+## License
+
+以上内容采用 [CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh) 进行许可, 转载请注明出处, 版权归本人及所有贡献者所有
