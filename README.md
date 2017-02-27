@@ -21,10 +21,6 @@
 - [Material Design 资料收集](http://www.jianshu.com/p/378ea4ee5a54) 这个不得不推荐，向前辈致敬
 - [Android Material Design 动画](http://blog.csdn.net/qibin0506/article/details/49069089)
 - [Material Design 详解（动画篇)](http://blog.csdn.net/a396901990/article/details/40187203)
-- [Android Design Support Library 的代码实验](http://www.jianshu.com/p/1078568e859f)
-- [Material Design 资料收集](http://www.jianshu.com/p/378ea4ee5a54) 这个不得不推荐，向前辈致敬
-- [Android Material Design 动画](http://blog.csdn.net/qibin0506/article/details/49069089)
-- [Material Design 详解（动画篇)](http://blog.csdn.net/a396901990/article/details/40187203)
 
 ## Awesome 系列
 
@@ -66,6 +62,7 @@
 - [Elephant](https://github.com/Freelander/Elephant) PHPHub 第三方客户端
 - [MaterialDesignExample](https://github.com/chenyangcun/MaterialDesignExample) 最早出现的 Material Design 风格的app之一，用来演示 Material Design 控件的使用
 - [MaterialHome](https://github.com/hymanme/MaterialHome) 一款图书展示类 app
+- [ListenerMusicPlayer](https://github.com/hefuyicoder/ListenerMusicPlayer) 一款优雅的遵循 Material Design 的开源音乐播放器
 
 ##视频
 
