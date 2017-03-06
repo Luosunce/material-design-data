@@ -4,7 +4,7 @@
 
 关于 Material Design 在这里我就不在多做介绍了，想必做Android开发的 都听过它的大名 ，甚至用过无数次了。Material Design 是以后 Android 的主流设计风格，现在已经越来越多的APP遵循 Material Design 的设计规范来进
 行开发，是每个 Android 开发者必学的基础技术。在此我收集了一份关于 Material Design 的学习资料以便大家学习，希望对你们有所帮助！
-这个项目我会在 **Github** 上不定期更新，欢迎 star、folow.
+这个项目我会在 **Github** 上不定期更新，欢迎 star、follow.
 
 >感谢 [@Android 开发日常](http://www.weibo.com/AndroidDevDaily) 大力支持以及 [@G军仔](https://github.com/Freelander) 指点
 
