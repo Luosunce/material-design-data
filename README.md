@@ -1,4 +1,4 @@
-#最全面的 Material Design 学习资料
+# 最全面的 Material Design 学习资料
 
 >本人目前正在找工作，想了解我的详细情况请移步到我的 [网页版简历](https://luosunce.github.io/resume/) ，希望能得到各位的推荐，谢谢！
 
@@ -8,7 +8,7 @@
 
 >感谢 [@Android 开发日常](http://www.weibo.com/AndroidDevDaily) 大力支持以及 [@G军仔](https://github.com/Freelander) 指点
 
-##Material Design 使用教程
+## Material Design 使用教程
 
 - [Material Design 官网](https://material.google.com/)
 - [Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
@@ -28,7 +28,7 @@
 - [awesome-material](https://github.com/sachin1092/awesome-material)
 - [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
 
-##开源库
+## 开源库
 
 - [android-material-design-Open-source-projects](https://github.com/soyoungboy/android-material-design-Open-source-projects) Material Design 开源库集合
 - [MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary) Material Design 风格的各种控件
@@ -49,7 +49,7 @@
 - [MaterialIntroView](https://github.com/iammert/MaterialIntroView) 类似 [Fabulous App](http://www.thefabulous.co/) MD 风格的功能引导库
 - [material-components-android](https://github.com/material-components/material-components-android) MD 风格的组件集合
 
-##开源项目
+## 开源项目
 
 - [十款 Material Design 风格的 Android 开源项目](http://weibo.com/ttarticle/p/show?id=2309404021772117763644)
 - [Universal Android Music Player](https://github.com/googlesamples/android-UniversalMusicPlayer#universal-android-music-player-sample) 谷歌的一款 Material Design 风格的音乐播放器播放器，非常的漂亮
@@ -64,23 +64,24 @@
 - [MaterialHome](https://github.com/hymanme/MaterialHome) 一款图书展示类 app
 - [ListenerMusicPlayer](https://github.com/hefuyicoder/ListenerMusicPlayer) 一款优雅的遵循 Material Design 的开源音乐播放器
 
-##视频
+## 视频
 
 - [谷歌 Material Design 设计语言详解](http://www.jikexueyuan.com/course/124.html?Hmsr=p_w) 极客学院的 Material Design 视频教程
 - [Android 5.0新特性-Material Design](http://www.imooc.com/learn/215) 慕课网上的视频教程
 - [Android Material Design Tutorial](https://www.youtube.com/watch?v=fuSx8J6xLho&list=PLshdtb5UWjSoLy2LPP1FsHi1hwoAS4SBi) YouTobe 上的视频教程
 
-##图标
+## 图标
 
 - [Material UI Icons](https://www.materialui.co/icons)
 - [Material icons](https://material.io/icons/)
 - [material-design-icons](https://github.com/google/material-design-icons)
 - [Android Material 材料风格图标LOGO生成器](http://jaqen.me/mdpub/)
 
-##其它
+## 网站
 
 - [material palette](https://www.materialpalette.com/) Material Design 调色板
 - [MaterialUp](https://material.uplabs.com/) 如果你不知道怎样设计一款漂亮的 Material Design 风格的 APP，那你可以参考它，上面有很多漂亮的模板 
+- [优秀的 Material Design 产品](http://next.36kr.com/posts/collections/200) 收集的都是 Material Desing 风格的应用
 
 ## 知乎讨论
 
@@ -89,7 +90,7 @@
 - [Material Design 设计规范是否不太适合像淘宝这样大而全的厚重的应用程序？](https://www.zhihu.com/question/36992060)
 - [Material Design 有什么缺点？](https://www.zhihu.com/question/24431206)
 
-##结尾
+## 结尾
 
 感谢上面分享资料的各位大神！最后，如果你们觉得这份资料对你们能起到一点帮助，请给个 star ,谢谢！
 
