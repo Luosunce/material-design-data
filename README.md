@@ -63,6 +63,8 @@
 - [MaterialDesignExample](https://github.com/chenyangcun/MaterialDesignExample) 最早出现的 Material Design 风格的app之一，用来演示 Material Design 控件的使用
 - [MaterialHome](https://github.com/hymanme/MaterialHome) 一款图书展示类 app
 - [ListenerMusicPlayer](https://github.com/hefuyicoder/ListenerMusicPlayer) 一款优雅的遵循 Material Design 的开源音乐播放器
+- [InstaMaterial](https://github.com/frogermcs/InstaMaterial) Material Design 设计风格的 Instagram
+- [MusicDNA](https://github.com/harjot-oberai/MusicDNA) 这款音乐播放器真是炫瞎眼了
 
 ## 视频
 
