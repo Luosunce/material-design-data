@@ -78,7 +78,7 @@
 - [Material icons](https://material.io/icons/)
 - [material-design-icons](https://github.com/google/material-design-icons)
 - [Android Material 材料风格图标LOGO生成器](http://jaqen.me/mdpub/)
-- [Google-Material-Icons-for-Sketch](Google-Material-Icons-for-Sketch)
+- [Google-Material-Icons-for-Sketch](https://github.com/LPZilva/Google-Material-Icons-for-Sketch)
 
 ## 网站
 
