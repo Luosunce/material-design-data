@@ -4,7 +4,7 @@
 
 关于 Material Design 在这里我就不在多做介绍了，想必做Android开发的 都听过它的大名 ，甚至用过无数次了。Material Design 是以后 Android 的主流设计风格，现在已经越来越多的APP遵循 Material Design 的设计规范来进
 行开发，是每个 Android 开发者必学的基础技术。在此我收集了一份关于 Material Design 的学习资料以便大家学习，希望对你们有所帮助！
-这个项目我会在 **Github** 上不定期更新，欢迎 star、follow.
+这个项目我会在 Github：https://github.com/Luosunce/material-design-data 上不定期更新，欢迎 star、follow.
 
 >感谢 [@Android 开发日常](http://www.weibo.com/AndroidDevDaily) 大力支持以及 [@G军仔](https://github.com/Freelander) 指点
 
@@ -17,7 +17,7 @@
 - [Android Design Support Library 概览](http://blog.csdn.net/growth58/article/details/47972467) 一系列教程对 Material Design 的常用控件都做了很详细的讲解
 - [Android Material Design 简单使用](http://www.jianshu.com/p/107a2529a56f)
 - [Material Design Library 使用汇总](http://www.jianshu.com/p/40efd44802ef)
-- [Android Design Support Library 的 代码实验] (http://www.jianshu.com/p/1078568e859f)
+- [Android Design Support Library 的 代码实验](http://www.jianshu.com/p/1078568e859f)
 - [Material Design 资料收集](http://www.jianshu.com/p/378ea4ee5a54) 这个不得不推荐，向前辈致敬
 - [Android Material Design 动画](http://blog.csdn.net/qibin0506/article/details/49069089)
 - [Material Design 详解（动画篇)](http://blog.csdn.net/a396901990/article/details/40187203)
@@ -64,7 +64,7 @@
 - [MaterialHome](https://github.com/hymanme/MaterialHome) 一款图书展示类 app
 - [ListenerMusicPlayer](https://github.com/hefuyicoder/ListenerMusicPlayer) 一款优雅的遵循 Material Design 的开源音乐播放器
 - [InstaMaterial](https://github.com/frogermcs/InstaMaterial) Material Design 设计风格的 Instagram
-- [MusicDNA](https://github.com/harjot-oberai/MusicDNA) 这款音乐播放器真是炫瞎眼了
+- [MusicDNA](https://github.com/harjot-oberai/MusicDNA) 这款播放器真是炫瞎眼了
 
 ## 视频
 
@@ -78,6 +78,7 @@
 - [Material icons](https://material.io/icons/)
 - [material-design-icons](https://github.com/google/material-design-icons)
 - [Android Material 材料风格图标LOGO生成器](http://jaqen.me/mdpub/)
+- [Google-Material-Icons-for-Sketch](Google-Material-Icons-for-Sketch)
 
 ## 网站
 
@@ -92,6 +93,10 @@
 - [Material Design 设计规范是否不太适合像淘宝这样大而全的厚重的应用程序？](https://www.zhihu.com/question/36992060)
 - [Material Design 有什么缺点？](https://www.zhihu.com/question/24431206)
 
+## 关于我
+
+> 欢迎关注我的 [Github](https://github.com/Luosunce) 和 [微博](http://weibo.com/luosunce?is_all=1)
+
 ## 结尾
 
 感谢上面分享资料的各位大神！最后，如果你们觉得这份资料对你们能起到一点帮助，请给个 star ,谢谢！
@@ -99,3 +104,5 @@
 ## License
 
 以上内容采用 [CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh) 进行许可, 转载请注明出处, 版权归本人及所有贡献者所有
+
+
