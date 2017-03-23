@@ -6,12 +6,13 @@
 行开发，是每个 Android 开发者必学的基础技术。在此我收集了一份关于 Material Design 的学习资料以便大家学习，希望对你们有所帮助！
 这个项目我会在 Github：https://github.com/Luosunce/material-design-data 上不定期更新，欢迎 star、follow.
 
->感谢 [@Android 开发日常](http://www.weibo.com/AndroidDevDaily) 大力支持以及 [@G军仔](https://github.com/Freelander) 指点
+>感谢 [@GitHubDaily](http://weibo.com/GitHubDaily) 大力支持以及 [@G军仔](https://github.com/Freelander) 指点
 
 ## Material Design 使用教程
 
 - [Material Design 官网](https://material.google.com/)
-- [Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
+- [Material Design 中文版(极客学院)](http://wiki.jikexueyuan.com/project/material-design/)
+- [Material Design 最新中文版](https://github.com/zdhxiong/Material-Design-Chinese)
 - [Android 5.0 文档](https://developer.android.com/training/material/index.html)
 - [开始学习 Materila Design](https://bboyfeiyu.gitbooks.io/android-tech-frontier/content/issue-8/%E5%BC%80%E5%A7%8B%E5%AD%A6%E4%B9%A0Material%20Design.html)
 - [Android Design Support Library 概览](http://blog.csdn.net/growth58/article/details/47972467) 一系列教程对 Material Design 的常用控件都做了很详细的讲解
