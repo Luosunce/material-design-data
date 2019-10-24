@@ -71,7 +71,7 @@
 
 - [谷歌 Material Design 设计语言详解](http://www.jikexueyuan.com/course/124.html?Hmsr=p_w) 极客学院的 Material Design 视频教程
 - [Android 5.0新特性-Material Design](http://www.imooc.com/learn/215) 慕课网上的视频教程
-- [Android Material Design Tutorial](https://www.youtube.com/watch?v=fuSx8J6xLho&list=PLshdtb5UWjSoLy2LPP1FsHi1hwoAS4SBi) YouTobe 上的视频教程
+- [Android Material Design Tutorial](https://www.youtube.com/watch?v=fuSx8J6xLho&list=PLshdtb5UWjSoLy2LPP1FsHi1hwoAS4SBi) YouTube 上的视频教程
 
 ## 图标
 
